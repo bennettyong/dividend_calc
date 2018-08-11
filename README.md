@@ -1,2 +1,2 @@
 # dividend_calc
-A calculator for dividennd of Stocks 
+A calculator for dividend of Stocks 
