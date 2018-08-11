@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.7.0",
+    "react": "^16.4.1",
+    "react-autosuggest": "^9.3.4",
+    "react-dom": "^16.4.1",
+    "react-fullpage": "^0.1.18",
+    "react-scripts": "1.1.4",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001"
+}
